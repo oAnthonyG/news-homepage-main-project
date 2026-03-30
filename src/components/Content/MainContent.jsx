@@ -44,7 +44,7 @@ function MainContent() {
               The Downsides of AI Artistry
             </Text>
             <Text opacity={0.6} fontWeight="light">
-              What are the possible adverse effects of on-demand AI image generation?
+              What are the possible adverse effects of on-demand AI image generation??
             </Text>
           </Box>
           <Separator />
